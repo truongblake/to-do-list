@@ -20,7 +20,7 @@ To set up and run the project locally:
 
 **Clone the repository**:
    
-    git clone https://github.com/username/todo-app.git
+    git clone https://github.com/truongblake/todo-app.git
     cd todo-app
     
 Install dependencies:
