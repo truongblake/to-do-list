@@ -18,7 +18,29 @@ This project was developed in **October 2024** to practice and learn:
 
 To set up and run the project locally:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/username/todo-app.git
-   cd todo-app
+**Clone the repository**:
+   
+    git clone https://github.com/username/todo-app.git
+    cd todo-app
+    
+Install dependencies:
+
+    npm install
+
+Run the application:
+
+    npm start
+
+Access the app: Open http://localhost:3000 in your browser.
+
+Learning Outcome
+
+This project helped me understand core concepts in React, including:
+
+React Components: Building reusable, functional components.
+React Events: Managing user interactions like adding and deleting tasks.
+React Hooks: Using useState for managing state within components.
+
+Credits
+
+This project follows a tutorial by Greatstack. You can check out his content for more detailed React tutorials [here](https://www.youtube.com/@GreatStackDev).
