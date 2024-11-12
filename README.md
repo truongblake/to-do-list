@@ -1,4 +1,6 @@
-# To-do App
+[Animation2](https://github.com/user-attachments/assets/2a82eec9-ce3b-4979-97fd-0f2a2afb3737)
+
+# To-do App!
 
 A simple To-Do application built with **React**, created as a learning project to understand fundamental concepts such as components, events, and hooks in React. This project follows a tutorial by Greatstack, whose guidance was invaluable in building a functional to-do app.
 
