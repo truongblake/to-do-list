@@ -1,4 +1,4 @@
-[Animation2](https://github.com/user-attachments/assets/2a82eec9-ce3b-4979-97fd-0f2a2afb3737)
+![Animation2](https://github.com/user-attachments/assets/9454e773-2525-454a-9c48-be80ab8f84d9)
 
 # To-do App!
 
